@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="customdp"> 90dp </dimen>
+    <dimen name="maginlayout"> 3dp </dimen>
+    <dimen name="radius"> 3dp </dimen>
+    <dimen name="magin"> 15dp </dimen>
+</resources>
